@@ -38,6 +38,6 @@
   </div>
 
    <h1> Thank you, Srinivas Sampath, Deploying on Container. Happy Learning </h1>
-
+   <h2> For Contributions, reach out to the email of your admin <h2>
   
 </form>
